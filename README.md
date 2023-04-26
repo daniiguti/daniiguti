@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 Estoy aprendiendo SpringBoot, entre otros lenguajes
 - 💬 Apasionado de la informática y la programación
 - 📫 Como contactarme: danielgutierrezbaena@gmail.com
-- ⚡ Tengo experiencia en varios lenguajes como Java, SQL, Python, HTML, CSS, JavaScript 
+- ⚡ Tengo experiencia en varios lenguajes como Java, SQL.
 
