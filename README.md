@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Actualmente estoy trabajando en Hiberus
-- 🌱 Estoy programando con Spring y Angular
+- 🌱 Estoy programando en Spring y Angular
 - 💬 Apasionado de la informática y de la programación
 - 📫 Como contactarme: danielgutierrezbaena@gmail.com
 - ⚡ Junior Fullstack Developer
