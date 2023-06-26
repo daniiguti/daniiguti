@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Actualmente estoy realizando mis prácticas en Hiberus
-- 🌱 Estoy aprendiendo SpringBoot, entre otros lenguajes
-- 💬 Apasionado de la informática y la programación
+- 🔭 Actualmente estoy trabajando en Hiberus
+- 🌱 Estoy programando con Spring y Angular
+- 💬 Apasionado de la informática y de la programación
 - 📫 Como contactarme: danielgutierrezbaena@gmail.com
-- ⚡ Junior en Java
+- ⚡ Junior Fullstack Developer
 
