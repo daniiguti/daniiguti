@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 Estoy programando en Spring y Angular
 - 💬 Apasionado de la informática y de la programación
 - 📫 Como contactarme: danielgutierrezbaena@gmail.com
-- ⚡ Junior Fullstack Developer
+- ⚡ Junior Software Developer
 
